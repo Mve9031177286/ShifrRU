@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="My_Button">
+        <item name="android:layout_width">320dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">18sp</item>
+        <item name="cornerRadius">50dp</item>
+        <item name="backgroundTint">#FF3700B3</item>
+    </style>
+
+    <style name="text_style">
+        <item name="android:layout_width">350dp</item>
+        <item name="android:layout_height">130dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:inputType">textMultiLine</item>
+    </style>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CRYPTO SHIFR.RU</string>
+    <string name="buttonCrypt">ЗАШИФРОВАТЬ</string>
+    <string name="buttonDeCrypt">РАСШИФРОВАТЬ</string>
+    <string name="buttonCopy">СКОПИРОВАТЬ</string>
+    <string name="textCopy">ТЕКСТ СКОПИРОВАН</string>
+    <string name="buttonDeleteAll">УДАЛИТЬ ВСЕ</string>
+    <string name="instruction">ВВЕДИТЕ ТЕКСТ СООБЩЕНИЯ</string>
+    <string name="instruction2">ВСТАВЬТЕ ТЕКСТ</string>
+    <string name="instruction3">ПЕРЕЙТИ К РАСШИФРОВКЕ</string>
+    <string name="instruction4">ПЕРЕЙТИ К ШИФРОВКЕ</string>
+    <string name="instruction5">ВВЕДИТЕ ЗАШИФРОВАННЫЙ ТЕКСТ</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>

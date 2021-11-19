@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@color/lavender"
+    android:orientation="vertical"
+    android:layoutAnimation="@anim/lay_animeee">
+
+
+    <EditText
+        android:id="@+id/editTextCryptTwo"
+        android:hint="@string/instruction5"
+        style="@style/text_style" />
+
+    <Button
+        android:id="@+id/buttonDeCrypt"
+        android:text="@string/buttonDeCrypt"
+        style="@style/My_Button" />
+
+    <TextView
+        android:id="@+id/editTextDeCrypt"
+        android:textColor="#000000"
+        style="@style/text_style" />
+
+    <Button
+        android:id="@+id/buttonDeleteAllTwo"
+        android:text="@string/buttonDeleteAll"
+        style="@style/My_Button" />
+
+    <Button
+        android:id="@+id/buttonGoCrypt"
+        android:text="@string/instruction4"
+        style="@style/My_Button" />
+
+</LinearLayout>
